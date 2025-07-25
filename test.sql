@@ -1,3 +1,3 @@
 select *
 from planstat
-where planid='tyx'
+where planid='tyx' and planid not in (yu)
