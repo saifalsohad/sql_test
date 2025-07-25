@@ -1,2 +1,2 @@
 select *
-from cmscontact
+from cmscontact and sexy sohad
